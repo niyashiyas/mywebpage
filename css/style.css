@@ -1,0 +1,43 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+h1
+     {
+      font-family: 'Times New Roman', Times, serif; 
+      color: #ffffff;
+      font-size: 41px;
+     }
+
+h2
+     {
+      color: rgb(231, 217, 208);
+      font-size: 23px;
+    }
+
+.btn
+{
+  background-color: #1c4d71;
+  border: none;
+  padding: 12px;
+  color: #ffffff;
+  font-size: large;
+}
+.btn:hover
+{
+ background-color:#0e2638;
+}
+
+.btn1
+{
+  background-color: #711c1c;
+  border: none;
+  padding: 12px;
+  color: #ffffff;
+  font-size: large;
+}
+.btn1:hover:hover
+{
+ background-color:#580c0c;
+}
